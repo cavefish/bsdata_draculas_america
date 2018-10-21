@@ -19,6 +19,11 @@ To add this game system, you can follow
 
 
 ## Changelog
+### Version 3 (2018-10-21)
+- Add basic faction system
+- Add Twilight Order faction
+- Add Red Hand Coven faction
+
 ### Version 2 (2018-10-20)
 - Refactor on selection entries to be shared selection entries.
 
