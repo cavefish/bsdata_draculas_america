@@ -19,5 +19,8 @@ To add this game system, you can follow
 
 
 ## Changelog
+### Version 2 (2018-10-20)
+- Refactor on selection entries to be shared selection entries.
+
 ### Version 1 (2018-10-19)
-Create the basic structure to create wild west bands for one-off games
+- Create the basic structure to create wild west bands for one-off games.
