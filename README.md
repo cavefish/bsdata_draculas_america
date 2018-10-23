@@ -19,6 +19,10 @@ To add this game system, you can follow
 
 
 ## Changelog
+### Version 5 (2018-10-23)
+- Add Arcane powers and skills
+- Add Infamy
+
 ### Version 4 (2018-10-22)
 - Add all base game factions
 
