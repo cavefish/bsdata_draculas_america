@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="215f-efb4-24de-98ee" name="Dracula`s America" revision="5" battleScribeVersion="2.03" authorName="Jose J. CAVEFISH" authorContact="@cavefish2" authorUrl="http://cavefish.me" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="215f-efb4-24de-98ee" name="Dracula`s America" revision="6" battleScribeVersion="2.03" authorName="Jose J. CAVEFISH" authorContact="@cavefish2" authorUrl="http://cavefish.me" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="215f-efb4-pubN65537" name="Dracula´s America: Shadows of the west"/>
     <publication id="215f-efb4-pubN65884" name="SotW"/>
   </publications>
   <costTypes>
-    <costType id="cdf2-43c3-d4d8-f098" name="models" defaultCostLimit="-1.0"/>
-    <costType id="9edd-8430-455f-2607" name="$" defaultCostLimit="-1.0"/>
-    <costType id="0f09-1f9f-ad78-9c59" name="infamy" defaultCostLimit="-1.0"/>
+    <costType id="cdf2-43c3-d4d8-f098" name="models" defaultCostLimit="-1.0" hidden="false"/>
+    <costType id="9edd-8430-455f-2607" name="$" defaultCostLimit="-1.0" hidden="false"/>
+    <costType id="0f09-1f9f-ad78-9c59" name="infamy" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
   <profileTypes>
     <profileType id="96fa-e037-0a9b-22c4" name="Model">

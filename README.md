@@ -11,7 +11,7 @@ This repository stores the data files riquered by [BattleScribe](https://www.bat
 
 
 To add this game system, you can follow
- [this link](https://github.com/cavefish/bsdata_draculas_america/raw/master/Dracula%60s_America.gst)
+ [this link](https://github.com/cavefish/bsdata_draculas_america/raw/master/index.bsi)
  or scan this qr image.
 
 ![](qr.png)
