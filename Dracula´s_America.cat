@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="b498-4178-b89d-608b" name="Dracula´s America" revision="6" battleScribeVersion="2.03" library="false" gameSystemId="215f-efb4-24de-98ee" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="dd48-c766-9509-67a2" name="Recruit" hidden="false" collective="false" import="true" type="model">
+      <modifiers>
+        <modifier type="set" field="name" value="Heroe">
+          <conditions>
+            <condition field="selections" scope="dd48-c766-9509-67a2" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="09fc-f206-cb20-d937" type="greaterThan"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" field="name" value="Novice">
+          <conditions>
+            <condition field="selections" scope="dd48-c766-9509-67a2" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="b993-2c77-65c1-6ee6" type="greaterThan"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" field="name" value="Veteran">
+          <conditions>
+            <condition field="selections" scope="dd48-c766-9509-67a2" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="50b4-91cf-2a9d-0406" type="greaterThan"/>
+          </conditions>
+        </modifier>
+        <modifier type="append" field="name" value="Arcanist">
+          <conditions>
+            <condition field="selections" scope="dd48-c766-9509-67a2" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="6c4a-541e-4113-1fba" type="greaterThan"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <infoLinks>
+        <infoLink id="d68e-23b7-39f2-7c06" name="Recruit" hidden="false" targetId="01e4-ce8a-7a48-327c" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="bd4b-8b09-1722-aa03" name="Recruit" hidden="false" targetId="e076-5a7f-e953-6824" primary="true"/>
+        <categoryLink id="7598-5514-c8a1-d563" name="Wild West" hidden="false" targetId="036c-ac6b-eb36-e059" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="c6fa-60d5-5e4a-77ee" name="Weapons" hidden="false" collective="false" import="true" targetId="24b5-1dcb-79ef-d6d0" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="245a-139c-84fd-9827" type="max"/>
+          </constraints>
+          <categoryLinks>
+            <categoryLink id="5c01-224f-9a3c-8a43" name="Recruits" hidden="false" targetId="a35b-f0ec-60d4-0be1" primary="false"/>
+          </categoryLinks>
+        </entryLink>
+        <entryLink id="3a08-c0ff-4907-2684" name="Wild West Gear" hidden="false" collective="false" import="true" targetId="a19c-3e05-c076-e69a" type="selectionEntryGroup"/>
+        <entryLink id="4699-339d-9444-2525" name="Faction Bonus" hidden="false" collective="false" import="true" targetId="f46f-21da-b407-e6a7" type="selectionEntryGroup"/>
+        <entryLink id="8377-66df-f275-9afb" name="Posse Boss" hidden="false" collective="false" import="true" targetId="6672-fe0b-7301-36f9" type="selectionEntryGroup"/>
+        <entryLink id="f8ab-c9eb-d1a3-2f14" name="Arcane Power User" hidden="false" collective="false" import="true" targetId="b028-172e-3948-a5d3" type="selectionEntryGroup"/>
+        <entryLink id="0f0e-9e0b-331a-41f3" name="Grit" hidden="false" collective="false" import="true" targetId="b746-27b2-d3fd-4f54" type="selectionEntryGroup"/>
+        <entryLink id="8a0f-f91d-404f-59ad" name="Skills" hidden="false" collective="false" import="true" targetId="ab5c-39ac-8a86-bd2a" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="models" typeId="cdf2-43c3-d4d8-f098" value="1.0"/>
+        <cost name="$" typeId="9edd-8430-455f-2607" value="0.0"/>
+        <cost name="infamy" typeId="0f09-1f9f-ad78-9c59" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>

@@ -11,7 +11,7 @@ This repository stores the data files riquered by [BattleScribe](https://www.bat
 
 
 To add this game system, you can follow
- [this link](https://github.com/cavefish/bsdata_draculas_america/raw/master/index.bsi)
+ [this link](https://github.com/cavefish/bsdata_draculas_america/raw/master/Dracula%60s_America.gst)
  or scan this qr image.
 
 ![](qr.png)
@@ -19,6 +19,9 @@ To add this game system, you can follow
 
 
 ## Changelog
+### Version 6 (2020-10-09)
+- Change file format to plain text (no more bsi index).
+
 ### Version 5 (2018-10-23)
 - Add Arcane powers and skills
 - Add Infamy
