@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="Dracula`s America: Shadows of the west" indexUrl="https://github.com/cavefish/bsdata_draculas_america/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <repositoryUrls/>
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Dracula`s_America.gstz" dataType="gamesystem" dataId="215f-efb4-24de-98ee" dataName="Dracula`s America" dataBattleScribeVersion="2.01" dataRevision="5"/>
-    <dataIndexEntry filePath="Dracula´s_America.catz" dataType="catalogue" dataId="b498-4178-b89d-608b" dataName="Dracula´s America" dataBattleScribeVersion="2.01" dataRevision="5"/>
-  </dataIndexEntries>
-</dataIndex>
